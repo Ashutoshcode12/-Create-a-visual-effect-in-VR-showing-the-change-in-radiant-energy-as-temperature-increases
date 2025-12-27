@@ -20,5 +20,5 @@ Allow users to use a virtual mirometer to measure the fringe width
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Ashutosh kumar | Student | IT | REC Banda | kmashutosh12kr@gmail.com
 2 | . | . | . | . | .
